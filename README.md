@@ -18,7 +18,7 @@ Concurrent_Event_Pipeline/
 ├── bench.sh            performance benchmark (1,000,000 records)
 ├── plot_bench.py       builds the benchmark table and graph
 ├── README.md
-└── report.pdf
+
 ```
 
 Generated when you run the scripts (do not submit): the `event_pipeline` binary,
